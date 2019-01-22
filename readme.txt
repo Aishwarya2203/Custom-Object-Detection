@@ -28,4 +28,4 @@ Label 1:  class_name,
 Variable 1: bounding_box_top_left_x_coordinate, Variable 2 :bounding_box_top_left_y_coordinate, 
 Variable 3 :bounding_box_width, 
 Variable 4: bounding_box_height 
-<im src=images/convolution.jp height="200" width="200">
+<img src=images/convolution.jp height="200" width="200">
