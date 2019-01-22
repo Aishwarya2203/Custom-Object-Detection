@@ -1,15 +1,18 @@
-Protocol Buffers - Google's data interchange format
-Copyright 2008 Google Inc.
-https://developers.google.com/protocol-buffers/
+Python 3.6 required
+Tensorflow 1.0 required
+OpenCV2 required
+Protobuf required
 
-This package contains a precompiled binary version of the protocol buffer
-compiler (protoc). This binary is intended for users who want to use Protocol
-Buffers in languages other than C++ but do not want to compile protoc
-themselves. To install, simply place this binary somewhere in your PATH.
+*******************************************************************
+Running the files
+******************************************************************
+Go to main/object-detection
+python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/ssd_mobilenet_v1_pets.config --trained_checkpoint_prefix training/model.ckpt-180 --output_directory aishwarya
+Run the object_detection.py file
+*****************************************************************
+Custom Training
+*****************************************************************
+Use ImageLable for drawing bounding boxes
+Convert Images to csv files using 
 
-If you intend to use the included well known types then don't forget to
-copy the contents of the 'include' directory somewhere as well, for example
-into '/usr/local/include/'.
-
-Please refer to our official github site for more installation instructions:
-  https://github.com/google/protobuf
+set TF_CPP_MIN_LOG_LEVEL=2
