@@ -1,3 +1,2 @@
 
-![](images/convolution.jpg)
 
