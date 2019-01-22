@@ -1,2 +1,2 @@
 
-<img src="images/convolution.jpg">
+<img src="images/results1.jpg">
