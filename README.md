@@ -25,6 +25,7 @@ Results
 ********************************************************************************************************************************
 Image Classification using RCNN 
 In place of predicting the class of object from an image, we now have to predict the class as well as a rectangle (called bounding box) containing that object. It takes 4 variables to uniquely identify a rectangle. So, for each instance of the object in the image, we shall predict following variables: 
+
 Label 1:  class_name,  
 
 Variable 1: bounding_box_top_left_x_coordinate, 
@@ -34,14 +35,18 @@ Variable 2 :bounding_box_top_left_y_coordinate,
 Variable 3 :bounding_box_width, 
 
 Variable 4: bounding_box_height 
+
 Drawing bounding boxes
 
-<img src="images/convolution.jpeg" height="200" width="200">
+<img src="images/convolution.jpeg" height="400" width="400">
 
-<img src="images/ImageLabel.jpeg" height="200" width="200">
+<img src="images/ImageLabel.jpeg" height="400" width="400">
 
-<img src="images/results1.jpeg" height="100" width="100">
-<img src="images/results2.jpeg" height="100" width="100">
+******************************************************************************************************************************
+Live Camera results
+********************************************************************************************************************************
 
-<img src="images/results3.jpeg" height="100" width="100">
-<img src="images/results4.jpeg" height="100" width="100">
+<img src="images/results1.jpeg" height="200" width="200">
+<img src="images/results2.jpeg" height="200" width="200">
+<img src="images/results3.jpeg" height="200" width="200">
+<img src="images/results4.jpeg" height="200" width="200">
