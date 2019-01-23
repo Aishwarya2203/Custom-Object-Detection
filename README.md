@@ -41,9 +41,8 @@ Drawing bounding boxes
 <img src="images/ImageLabel.jpeg" height="200" width="200">
 
 
-<img src="images/results1.jpeg" height="200" width="200">
-<img src="images/results2.jpeg" height="200" width="200">
-
+<img src="images/results1.jpeg" height="100" width="100">
+<img src="images/results2.jpeg" height="100" width="100">
 
 <img src="images/results3.jpeg" height="100" width="100">
 <img src="images/results4.jpeg" height="100" width="100">
