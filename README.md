@@ -46,7 +46,5 @@ Drawing bounding boxes
 Live Camera results
 ********************************************************************************************************************************
 
-<img src="images/results1.jpeg" height="200" width="200">
-<img src="images/results2.jpeg" height="200" width="200">
-<img src="images/results3.jpeg" height="200" width="200">
-<img src="images/results4.jpeg" height="200" width="200">
+<img src="images/results1.jpeg" height="200" width="200"><img src="images/results2.jpeg" height="200" width="200">
+<img src="images/results3.jpeg" height="200" width="200"><img src="images/results4.jpeg" height="200" width="200">
