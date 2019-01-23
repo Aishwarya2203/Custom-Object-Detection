@@ -34,12 +34,11 @@ Variable 2 :bounding_box_top_left_y_coordinate,
 Variable 3 :bounding_box_width, 
 
 Variable 4: bounding_box_height 
-
 Drawing bounding boxes
+
 <img src="images/convolution.jpeg" height="200" width="200">
 
 <img src="images/ImageLabel.jpeg" height="200" width="200">
-
 
 <img src="images/results1.jpeg" height="100" width="100">
 <img src="images/results2.jpeg" height="100" width="100">
